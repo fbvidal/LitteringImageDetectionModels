@@ -38,10 +38,11 @@ Mais especificamente aqui se encontram os resultados do treino de todos os model
 ## Autors: 
 
 Luís Humberto Chaves Senno - betolhcs@protonmail.com - Mechatronics Engineering - University of Brasilia (UnB).
+
 David Fanchic Chatelard - davidfchatelard@gmail.com - Mechatronics Engineering - University of Brasilia (UnB).
 
 ## Citation: 
-
+```
 @masterthesis{LitteringImageDetectionModels,
     author = {Chaves Senno, L., Chatelard, D.},
     title = {Detecção e Reconhecimento de Resíduos
@@ -52,3 +53,4 @@ Utilizando Modelos de Aprendizado Profundo},
     year = {2023},
     type={Bachelor's Thesis}
 }
+```
