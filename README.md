@@ -8,25 +8,32 @@ Mais especificamente aqui se encontram os resultados do treino de todos os model
 ## Datasets:
 
 * [TACO](https://github.com/pedropro/TACO/tree/master)
+  
     Clone o repositório Taco
         `git clone https://github.com/pedropro/TACO.git`
+  
     Instale os requirements
         `pip3 install -r requirements.txt`
+  
     Baixe as imagens oficiais etiquetadas
         `python3 download.py`
 
 * [TACO extended](https://github.com/wimlds-trojmiasto/detect-waste/tree/main)
+  
     Clone o repositório Taco
         `git clone https://github.com/pedropro/TACO.git`
+  
     Instale os requirements
         `pip3 install -r requirements.txt`
+  
     Baixe as imagens oficiais etiquetadas
         `python3 download.py`
+  
     Baixe as imagens da comunidade etiquetadas
         `python3 download.py --dataset_path ./data/annotations_unofficial.json`
+  
     Utile as etiquetas refeitas pelas autoras
         `https://github.com/wimlds-trojmiasto/detect-waste/tree/main/annotations`
-
 
 ## Autors: 
 
