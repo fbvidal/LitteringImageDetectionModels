@@ -1,11 +1,12 @@
 # Reconhecimento de Resíduos Sólidos em Ambientes Não-Estruturados Utilizando Modelos de Aprendizado Profundo.
+
 Esse repositório contém os resultados e outros materiais utilizados na realização do trabalho Detecção e Reconhecimento de Resíduos Sólidos em Ambientes Não-Estruturados Utilizando Modelos de Aprendizado Profundo.
 
 Neste trabalho foi realizado um estudo sobre os principais datasets e modelos utilizados para a resolução do problema de detecção de resíduos sólidos em imagens. Além disso, foi realizado treinamento, sobre os bancos de imagem escolhidos, dos principais modelos de aprendizagem profunda da arquitetura You Only Look Once(YOLO) versão 7, aplicando técnicas de otimização como: Transferência de aprendizagem e aumento de dados manuais e artificiais. Por fim, foi feita também uma comparação com os trabalhos do estado-da-arte na área.
 
-Mais especificamente aqui se encontram os resultados do treino de todos os modelos, localizados na pasta results. Assim como as divisões utilizadas no treino, localizadas na pasta splits. Informações sobre os bancos de imagens utilizados. Por fim os scripts próprios utilizados para formatar os bancos de imagem, localizados na pasta scripts.
+Mais especificamente aqui se encontram os resultados do treino de todos os modelos, localizados na pasta results. Assim como as divisões utilizadas no treino, localizadas na pasta splits. Adicionalmente os scripts próprios utilizados para formatar os bancos de imagem, localizados na pasta scripts. Por fim, abaixo se encontram informações sobre os bancos de imagens utilizados. 
 
-## Datasets:
+## Conjuntos de Imagem:
 
 * [TACO](https://github.com/pedropro/TACO/tree/master)
   
@@ -35,13 +36,13 @@ Mais especificamente aqui se encontram os resultados do treino de todos os model
     Utile as etiquetas refeitas pelas autoras
         `https://github.com/wimlds-trojmiasto/detect-waste/tree/main/annotations`
 
-## Autors: 
+## Autores: 
 
-Luís Humberto Chaves Senno - betolhcs@protonmail.com - Mechatronics Engineering - University of Brasilia (UnB).
+Luís Humberto Chaves Senno - betolhcs@protonmail.com - Engenharia Mecatrônica - Universidade de Brasília (UnB).
 
-David Fanchic Chatelard - davidfchatelard@gmail.com - Mechatronics Engineering - University of Brasilia (UnB).
+David Fanchic Chatelard - davidfchatelard@gmail.com - Engenharia Mecatrônica - Universidade de Brasília (UnB).
 
-## Citation: 
+## Citação: 
 ```
 @masterthesis{LitteringImageDetectionModels,
     author = {Chaves Senno, L., Chatelard, D.},
