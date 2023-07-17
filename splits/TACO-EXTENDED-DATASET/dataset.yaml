@@ -1,0 +1,45 @@
+names:
+- metals_and_plastic
+- other
+- non_recyclable
+- glass
+- paper
+- bio
+- unknown
+nc: 7
+path: .
+train:
+  - ./train/batch_2
+  - ./train/batch_3
+  - ./train/batch_4
+  - ./train/batch_6
+  - ./train/batch_9
+  - ./train/batch_10
+  - ./train/batch_11
+  - ./train/batch_12
+  - ./train/batch_13
+  - ./train/batch_14
+  - ./train/batch_15
+  - ./train/dumped
+  - ./train/batch_1
+  - ./train/batch_7
+  - ./train/batch_5
+  - ./train/batch_8
+val:
+  - ./val/batch_2
+  - ./val/batch_3
+  - ./val/batch_4
+  - ./val/batch_6
+  - ./val/batch_9
+  - ./val/batch_10
+  - ./val/batch_11
+  - ./val/batch_12
+  - ./val/batch_13
+  - ./val/batch_14
+  - ./val/batch_15
+  - ./val/dumped
+  - ./val/batch_1
+  - ./val/batch_7
+  - ./val/batch_5
+  - ./val/batch_8
+
