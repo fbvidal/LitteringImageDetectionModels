@@ -60,21 +60,21 @@ names:
 - Unlabeled litter
 - Cigarette
 nc: 60
-path: /tmp/tg/src/MLModels/TACO-DATASET/data
+path: .
 train: 
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_2
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_3
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_4
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_6
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_9
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_10
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_11
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_12
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_13
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_14
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_15
+  - ./batch_2
+  - ./batch_3
+  - ./batch_4
+  - ./batch_6
+  - ./batch_9
+  - ./batch_10
+  - ./batch_11
+  - ./batch_12
+  - ./batch_13
+  - ./batch_14
+  - ./batch_15
 val:
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_1
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_7
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_5
-  - /tmp/tg/src/MLModels/TACO-DATASET/data/batch_8
+  - ./batch_1
+  - ./batch_7
+  - ./batch_5
+  - ./batch_8
